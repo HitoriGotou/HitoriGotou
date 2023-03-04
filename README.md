@@ -1,1 +1,2 @@
-Bocchi
+# Hitori Gotou
+yes
